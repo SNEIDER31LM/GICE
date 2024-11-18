@@ -16,8 +16,13 @@ Mejorar la comunicación y reducir los imprevistos para los usuarios ante los co
 •	Temporal: Completar e implementar el sistema en cuatro meses.
 
 # DEBER: U2_Tarea 1: Desarrollo Menu
-Versionado 📌
-Usamos Git para el versionado. Para las versiones disponibles, ve las etiquetas en este repositorio.
+
+
+![image](https://github.com/user-attachments/assets/6b43a5e2-8781-4e9d-a93b-05005a3876ce)
+# Ejecucion
+![image](https://github.com/user-attachments/assets/fcd45e6f-d32b-4c08-91fa-8ea3c399b54d)
+
+
 
 Autores ✒️
 ..........................................................................................
