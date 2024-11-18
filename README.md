@@ -1,68 +1,21 @@
 # GICE
 (Gestor de Informacion de Cortes Electricos )
-Título del Proyecto
-Nombre autoexplicativo del proyecto, con una breve descripción.
 
-Descripción
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+El Ecuador enfrenta desafíos significativos relacionados con el suministro eléctrico, especialmente en épocas de sequía o ante aumentos en la demanda energética. Las empresas eléctricas suelen programar cortes de energía para realizar mantenimientos, mejorar la infraestructura o gestionar la escasez de energía. Sin embargo, la falta de comunicación eficiente sobre estos cortes genera inconvenientes en hogares, instituciones y negocios.
+# OBJETIVO
+Mejorar la comunicación y reducir los imprevistos para los usuarios ante los cortes de luz programados mediante una aplicación que permita visualizar las zonas y fechas de los racionamientos de energía, como una herramienta que informe semanalmente a los usuarios sobre los cortes en sus zonas, manteniendo la información actualizada 
 
-Insignias
-Insignias que muestran metadatos como el estado de la compilación, la cobertura de las pruebas, el estado de las dependencias, etc.
+•	Específico: Implementar un sistema de notificación de cortes de luz en una aplicación accesible desde dispositivos móviles.
 
-Visuales
-Capturas de pantalla, videos o GIFs que demuestran lo que hace el proyecto y cómo usarlo.
+•	Medible: Publicar y actualizar la información semanalmente al 100%.
 
-Empezando 🚀
-Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+•	Alcanzable: Maneja una interfaz simple y accesible.
 
-Prerrequisitos 📋
-Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
+•	Relevante: Ayuda a los usuarios a conocer los cortes de luz con anticipación y minimizar el impacto en su vida diaria.
 
-Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
-Lenguaje de programación (por ejemplo, Python 3.8)
-Framework (por ejemplo, Django 3.1)
-Base de datos (por ejemplo, PostgreSQL 12)
-Otros...
-Instalación 🔧
-Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
+•	Temporal: Completar e implementar el sistema en cuatro meses.
 
-# paso 1
-Y así sucesivamente...
-
-# paso 2
-Ejecutando las Pruebas ⚙️
-Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
-
-# proporciona un ejemplo
-Pruebas de Principio a Fin 🔩
-Explica qué cubren estas pruebas, por qué son importantes y cómo interpretar sus resultados.
-
-Pruebas de Estilo de Código ⌨️
-Descripción y ejemplos de las pruebas de estilo que estás utilizando.
-
-# proporciona un ejemplo
-Despliegue 📦
-Instrucciones sobre cómo desplegar esto en un sistema en vivo o ambiente de producción.
-
-Construido Con 🛠️
-Explica qué tecnologías usaste para construir este proyecto. Aquí algunos ejemplos:
-
-..........................................................................................
-..........................................................................................
-..........................................................................................
-..........................................................................................
-
-Wiki 📖
-Puedes encontrar mucho más sobre cómo usar este proyecto en nuestra Wiki
-
-Soporte
-Si tienes algún problema o sugerencia, por favor abre un problema aquí.
-
-Roadmap
-Ideas, mejoras planificadas y actualizaciones futuras
-
-para el proyecto actual.
-
+# DEBER: U2_Tarea 1: Desarrollo Menu
 Versionado 📌
 Usamos Git para el versionado. Para las versiones disponibles, ve las etiquetas en este repositorio.
 
