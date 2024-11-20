@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/67f0722c-c9db-4382-a2cf-5209d7b1dd60)
+
+
 # GICE
 (Gestor de Informacion de Cortes Electricos )
 
@@ -31,24 +34,26 @@ Mejorar la comunicación y reducir los imprevistos para los usuarios ante los co
 # CERRAR SECCION
 ![image](https://github.com/user-attachments/assets/c98381a7-c0f7-4d59-9af5-dc491fbfb152)
 
+# MENU DE GESTION
 ![image](https://github.com/user-attachments/assets/2217f2b7-07b1-4849-90e5-6710a73f49e7)
 
-
+# CREAR USER
 ![image](https://github.com/user-attachments/assets/a3792bd3-c9d9-4619-aee2-39c42bb14f79)
 
 
 
 ![image](https://github.com/user-attachments/assets/f22929ac-eccf-4ed6-9830-5afa1614f7d3)
 
-
+# OPCIONES
 ![image](https://github.com/user-attachments/assets/7ea8a9e7-9248-4700-afef-4021960b54e9)
 
 
 ![image](https://github.com/user-attachments/assets/9d0c9ccf-642e-440d-b4ac-5e23ff0c4ab4)
 
-
+# GUI FILES
 ![image](https://github.com/user-attachments/assets/dea63d2f-2b7b-4f0b-a052-0b8e42ff8814)
 
+# GUI EJECUCION
 ![image](https://github.com/user-attachments/assets/6b8d8fa0-7e02-4960-8c16-e2aac5ed93a8)
 
 
